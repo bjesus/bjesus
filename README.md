@@ -8,6 +8,6 @@ Hey! I love writing software that makes my life easier.
 
 🦊 I love Firefox and I use it with my own custom UI, [Fireside](https://github.com/bjesus/fireside).
 
-💻 I spend most of my computer time with the terminal, so I wrote [Wren](https://github.com/bjesus/wren) to manage my notes and TODOs, [Muxile](https://github.com/bjesus/muxile) to transfer my tmux sessions to my phone, [swe](https://github.com/bjesus/swe) to help me while studying Swedish, and [pipet] to scrape websites easily.
+💻 I spend most of my computer time with the terminal, so I wrote [Wren](https://github.com/bjesus/wren) to manage my notes and TODOs, [Muxile](https://github.com/bjesus/muxile) to transfer my tmux sessions to my phone, [swe](https://github.com/bjesus/swe) to help me while studying Swedish, and [pipet](https://github.com/bjesus/pipet) to scrape websites easily.
 
 🗓️ I work at Cloudflare but I have my personal calendar elsewhere, so wrote [Callibella](https://github.com/bjesus/callibella) to sync them. I wrote [OAuth Hopper](https://github.com/bjesus/oauth-hopper) to let me access oauth-gated resources with simple CLI tools.
