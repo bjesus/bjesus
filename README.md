@@ -6,7 +6,7 @@ Hey! I love writing software that makes my life easier.
 
 🎵 I like playing the guitar, so I've contributed a lot to [freetar](https://github.com/kmille/freetar) and I wrote [Eyeroll](https://github.com/bjesus/eyeroll) to scroll through chords easily. For listening to music I use Tidal, for which I wrote [TidalFS](https://github.com/bjesus/tidalfs).
 
-🦊 I love Firefox and I use it with my own custom UI, [Fireside](https://github.com/bjesus/fireside). To easily access all the different webapps I run locally, I'm using [Levin](https://github.com/bjesus/baywatch).
+🦊 I love Firefox and I use it with my own custom UI, [Fireside](https://github.com/bjesus/fireside). To easily access all the different webapps I run locally, I'm using [Baywatch](https://github.com/bjesus/baywatch).
 
 💻 I spend most of my computer time with the terminal, so I wrote [Wren](https://github.com/bjesus/wren) to manage my notes and TODOs, [Muxile](https://github.com/bjesus/muxile) to transfer my tmux sessions to my phone, [swe](https://github.com/bjesus/swe) to help me while studying Swedish, and [pipet](https://github.com/bjesus/pipet) to scrape websites easily.
 
