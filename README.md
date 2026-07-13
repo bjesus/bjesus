@@ -11,3 +11,5 @@ Hey! I love writing software that makes my life easier.
 💻 I spend most of my computer time with the terminal, so I wrote [Wren](https://github.com/bjesus/wren) to manage my notes and TODOs, [Muxile](https://github.com/bjesus/muxile) to transfer my tmux sessions to my phone, [swe](https://github.com/bjesus/swe) to help me while studying Swedish, and [pipet](https://github.com/bjesus/pipet) to scrape websites easily.
 
 🗓️ I work at Cloudflare but I have my personal calendar elsewhere, so wrote [Callibella](https://github.com/bjesus/callibella) to sync them. I wrote [OAuth Hopper](https://github.com/bjesus/oauth-hopper) to let me access oauth-gated resources with simple CLI tools.
+
+♟️ I study some logic and I've implemented [cmaelcd](https://github.com/bjesus/camelcd), the world's first tableau-based satisfiability checker for CMAEL(CD), as well as [tatl](https://github.com/bjesus/tatl) which checks satisfiability for ATL*.
